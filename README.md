@@ -1,4 +1,4 @@
-# Тестовое задание
+# Тестовое задание (Коммуникационное агентство Magnat Professional)
 
 ## Vue (Composition API) + Vuetify + Pinia
 
